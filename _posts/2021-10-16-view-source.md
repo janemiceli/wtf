@@ -1,0 +1,3 @@
+## View Source
+
+Apparently now you can be prosecuted for [viewing source](https://www.vice.com/en/article/jg8ynp/governor-wants-to-prosecute-journalist-who-clicked-view-source-on-government-site) on a website. No good dead goes unpunished. Reminds me of a time I worked at a small start up. I found all offer letters were visible to everyone at the company. I reported it. Then I got accused of looking for them. The only thing I did was search my name in Google Docs. 
